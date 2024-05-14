@@ -1,0 +1,36 @@
+{
+    "company": "WorkDataCloud",
+    "pages": {
+        "home": "Home page",
+        "not_found": "Not Found",
+        "privacy_policy": "Privacy Policy"
+    },
+    "cookie": {
+        "menu": {
+            "typography": {
+                "paragraph": "We use cookies on our website to see how you interact with it. By accepting, you agree to the use of cookies.",
+                "link": "Privacy Policy"
+            },
+            "actions": {
+                "settings": "Settings",
+                "acept": "Acept"
+            }
+        },
+        "modal": ""
+    },
+    "country": {
+        "brazil": "brazil",
+        "mexico": "mexico",
+        "germany": "germany"
+    },
+    "accessibility": {},
+    "footer": {
+        "privacy_policy": "Privacy Policy"
+    },
+    "form": {
+        "name": "name",
+        "phone": "telephone",
+        "email": "email",
+        "send": "send"
+    }
+}
