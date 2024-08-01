@@ -1,3 +1,7 @@
+<img  src="/public/images/captura1.png" alt="captura1"  title="captura1" style="max-width: 100%;" />
+<img  src="/public/images/captura2.png" alt="captura2"  title="captura2" style="max-width: 100%;" />
+
+
 ## Install dependencies:
 
 ```bash
